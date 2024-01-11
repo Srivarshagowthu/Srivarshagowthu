@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SriVarsha Gowthu</h1>
-<h2 align="center">A passionate Student from India</h2>
+<h2 align="center"><b>A motivated individual who believe in hardwork and consistency</b></h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.lowgif.com/full/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srivarshagowthu&label=Profile%20views&color=0e75b6&style=flat" alt="srivarshagowthu" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **competitive Coding**,**Webdevelopment,Googlecloud**
 
-- 💬 Ask me about **Opensource**:Redhat,Linux,Ubuntu; **Programming Launguages**:PYTHON,C,CPP,JAVA;**TECHNOLOGIES**:gcloud,fullstack,GenAI**
+- 💬 Ask me about **Opensource**:Redhat,Linux,Ubuntu; **Programming Launguages**:PYTHON,C,CPP,JAVA;**TECHNOLOGIES**:gcloud,fullstack,GenAI
 
 - 📫 How to reach me **srivarshagowthu@gmail.com**
 
